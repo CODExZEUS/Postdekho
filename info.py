@@ -1,8 +1,8 @@
-API_ID       = 20434292
-API_HASH     = "ea4683f64ac46aa1d6fb236638a0ac01"
+API_ID       = 21313094
+API_HASH     = "80444108dac58a5d7d49292a7fbc5fbc"
 BOT_TOKEN    = "6610603578:AAGvMEfuGX1EAGSimk5RYOoeD9DenZ7eVQw"
 SESSION      = "BQE3zXQAmAWoTuX691iSErr9GisyVKXbBSZ1YWBGyglMcgQPdVmTlTen49nk2wh8e2ZzdK2Hk-A1GUz-U8psP8WSIVoj4rVg4Rpt4V6QY38jDF6QdJdqorO8CbVg7BD91MoTBciHZjrwbZClxh-YlsyULE29oNnZwV1vmbnova2fFHBLgOpNDt2ab3hnfc3mrsfE6sng4Z_CdHWbhsmkxMBOK1JykfOhk6lzNhkkLlD1ekrChdMr0VZKkR-DOkbaalR2XjSVw5KLGxPHqSNZTMyFnruktsQu_PtXREIVY_Y9t6BoWyYrv60DZ8guIEULE6mU830qQaKZ4twIEQJflr3UrSjYBwAAAAFaz1U0AA"
 DATABASE_URI = "mongodb+srv://anmol0700:anmol0700@cluster0.rjjytvq.mongodb.net/?retryWrites=true&w=majority"
 LOG_CHANNEL  = -1002062774595
-ADMIN        = 1663603208
-CHANNEL      = "@MS_Update_Channel"
+ADMIN        = 1844080002
+CHANNEL      = "@Film_Nest"
