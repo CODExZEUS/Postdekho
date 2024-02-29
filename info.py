@@ -1,8 +1,8 @@
-API_ID       = 
-API_HASH     = ""
-BOT_TOKEN    = ""
-SESSION      = ""
-DATABASE_URI = ""
+API_ID       = 20937822
+API_HASH     = "68d3b463d3c53536782545f790aa5147"
+BOT_TOKEN    = "7162251979:AAHm8UC_kHaE8oX3hh9DAxXf_Q76aQWiyLg"
+SESSION      = "1BVtsOLsBu2Iu6WFtZuUwy17Odr_-hcHURdf96kO0UoMu5YdJYDq9vW3GjN_G40MsdCTIEDoVlV84dDPK1hk13SGtSuqtUuYJl2aw_PyIXR-7Rm638-wx7irX6Hti53RuZ1RUGKSIXa-0-BZ-P2lrKFeWmFK2MwWxi6jMKaQW-rx9uaIoab1OQgWw8-Xiwzk2aEqsKyBX4z0OVFoiIHNdQvG7_ZdYmP5BGLFb-4ZTK3cOQbHf7GXPtD41ceQpayBAmP8_4GtZ9Qu54ObxGEKudl6VMhsdTgxUGhjhWZ_6Q5sKYzaicjzHnpfhdeXEFjxk6Qzhe5OO9a8TnymzGXZ4qBU4DbVMoWk="
+DATABASE_URI = "mongodb+srv://anmol0700:anmol0700@cluster0.rjjytvq.mongodb.net/?retryWrites=true&w=majority"
 LOG_CHANNEL  = -1001884373226
-ADMIN        = 1350642629
-CHANNEL      = "@GreyMatter_Bots"
+ADMIN        = 1663603208
+CHANNEL      = "@Film_Nest"
