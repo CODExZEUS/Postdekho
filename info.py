@@ -1,4 +1,4 @@
-API_ID       = 21313094
+hejkekekekkeAPI_ID       = 21313094
 API_HASH     = "80444108dac58a5d7d49292a7fbc5fbc"
 BOT_TOKEN    = "6839912702:AAEIN2IKspN9UjVteS3ILLqBPrEisQaCwco"
 SESSION      = "
