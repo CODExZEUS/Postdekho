@@ -1,8 +1,35 @@
-API_ID       = 14641459
-API_HASH     = "478fde2c05612b0df6fc2e897b7dfe5d"
-BOT_TOKEN    = "7329951541:AAFt6_RocyG4hUHaHyRJApHbk6Tzhp_E20k"
-SESSION      = "BQA4YMoylsyYoNZucfQp9YKVTPBaIBCDGynXCOXRSc2cbLlPA2K3omNKBbJRlL7WYV5MmKbCTfq7_n5x3zkZ50cV9JgpYnfELOceaCEGrXdxZHn-8Y3KUi2WiVY1QK97TQQ5oF9knunJaoOAZwj_j7PUZxVPe6S2D2wZ3997ajgvaifAWurES6autIkg0R89strnuYaCGo_sVzpeGHamdgS1kaV_gN4jUdTfz8Mk67SeumJbFTOpuRaVeY0cLwCopEil1wpfq2xOqOOnka4vHlH391Thzap7QAR1cwQB3q9dmfELkThGjcEhDeWEr2NYMseyxy8IGYt_Ug4cNxvyGIOHAAAAATUrb2IA"
-DATABASE_URI = "mongodb+srv://anmol:anmol@cluster0.eaq9icz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-LOG_CHANNEL  = "-1002114115777"
-ADMIN        = 1663603208
-CHANNEL      = "@Film_Nest"
+import os
+
+API_ID = os.getenv('API_ID')
+if API_ID is None:
+    raise ValueError("API_ID is not set")
+
+API_HASH = os.getenv('API_HASH')
+if API_HASH is None:
+    raise ValueError("API_HASH is not set")
+
+BOT_TOKEN = os.getenv('BOT_TOKEN')
+if BOT_TOKEN is None:
+    raise ValueError("BOT_TOKEN is not set")
+
+SESSION = os.getenv('SESSION')
+if SESSION is None:
+    raise ValueError("SESSION is not set")
+
+DATABASE_URI = os.getenv('DATABASE_URI')
+if DATABASE_URI is None:
+    raise ValueError("DATABASE_URI is not set")
+
+LOG_CHANNEL = os.getenv('LOG_CHANNEL')
+if LOG_CHANNEL is None:
+    raise ValueError("LOG_CHANNEL is not set")
+
+ADMIN = os.getenv('ADMIN')
+if ADMIN is None:
+    raise ValueError("ADMIN is not set")
+else:
+    ADMIN = int(ADMIN)
+
+CHANNEL = os.getenv('CHANNEL')
+if CHANNEL is None:
+    raise ValueError("CHANNEL is not set")
